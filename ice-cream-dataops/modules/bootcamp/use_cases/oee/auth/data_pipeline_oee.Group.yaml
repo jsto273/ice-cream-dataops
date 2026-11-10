@@ -1,4 +1,4 @@
-name: oee_ts_space
+name: data_pipeline_oee
 sourceId: {{ data_pipeline_oee_source_id }}
 capabilities:
   - datasetsAcl:
